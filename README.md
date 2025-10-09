@@ -1,5 +1,5 @@
 # Ejercicio: Servicio de alquiler de bicicletas públicas de Sevilla (Sevici)
-**Autor**: Mariano González.      **Revisores**: Carlos G. Vallejo, José A. Troyano, Fermín Cruz, Toñi Reina.     **Última modificación:** 04/10/2023
+**Autor**: Mariano González.      **Revisores**: Carlos G. Vallejo, José A. Troyano, Fermín Cruz, Toñi Reina.     **Última modificación:** 09/10/2025
 
 ## Requisitos previos
 En este ejercicio vamos a trabajar con mapas, para lo que usaremos la librería ```folium``` . Para instalar la librería ```folium``` abre una ventana de comandos y ejecuta el siguiente comando:
